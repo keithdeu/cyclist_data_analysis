@@ -1,1 +1,3 @@
-# cyclist_data_analysis
+# Analyzing Cyclist Data for Differences in Membership Types
+
+In this project...
