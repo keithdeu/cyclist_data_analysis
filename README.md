@@ -1,6 +1,6 @@
 # Analyzing Cyclist Data with Excel and SQL
 
-In this repository, you will find cleaned excel files, SQLlite queries, and analysis results of a fictional dataset of a bike-share company in Chicago, called Cyclistic. The goal of the analysis is to provide Cyclistic marketing team data on the differences in how casual members and annual members use Cyclistic bikes differently, so they can design new marketing strategies to convert casual riders into annual members.
+In this repository, you will find cleaned excel files, SQL queries, and analysis results of a fictional dataset of a bike-share company in Chicago, called Cyclistic. The goal of the analysis is to provide Cyclistic marketing team data on the differences in how casual members and annual members use Cyclistic bikes differently, so they can design new marketing strategies to convert casual riders into annual members.
 
 I decided to focus my analysis on the differences between casual members and annual members in regards to how often they used the service, as well as how long their average ride durations where. I started my analysis using Excel.
 
