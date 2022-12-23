@@ -20,10 +20,10 @@ I combined all 12 datasets into one table, which I called "combined_data," addin
   3. weekday PER business quarter for the full year
   4. month for the full year
 
-These queries are all located in the "queries" file. I exported these results into an Excel file and continued my work there.
+These queries are all located in the "full_year_weekday_queries" file. I exported these results into an Excel file and continued my work there.
 
 ### Visualize
-In Excel, I took all my query results and created pivot tables, organizing the columns as the different member types (casual and member), and fields by the groups stated in the queries above. Once this was completed I created charts to visualize the results. From these charts I created an Excel dashboard, in which you are able to filter each charts results to better understand and gain insights from the queries. 
+In Excel, I took all my query results and created pivot tables, organizing the columns as the different member types (casual and member), and fields by the groups stated in the queries above. See the file labeled "num_rides_avg_ride_length.xOnce this was completed I created charts to visualize the results. From these charts I created an Excel dashboard, in which you are able to filter each charts results to better understand and gain insights from the queries. 
 
 These results can be found in the "Dashboard" file.
 
